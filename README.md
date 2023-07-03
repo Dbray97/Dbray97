@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+
   - [Azure Sentinel (SIEM) Home Lab](https://github.com/Dbray97/SIEMLab)
 
 <h2>👨‍💻Sotware Development Projects</h2>
