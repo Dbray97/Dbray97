@@ -4,6 +4,9 @@
 
   - [Azure Sentinel (SIEM) Home Lab](https://github.com/Dbray97/SIEMLab)
 
+  -  [Vulnerability Managment (OpenVas)](https://github.com/Dbray97/SIEMLab)
+   
+      
 <h2>👨‍💻Sotware Development Projects</h2>
 
 - [Random Number Game](https://www.youtube.com/watch?v=a83ASGn_V_s)
