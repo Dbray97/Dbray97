@@ -4,7 +4,7 @@
 
   - [Azure Sentinel (SIEM) Home Lab](https://github.com/Dbray97/SIEMLab)
 
-  -  [Vulnerability Managment (OpenVas)](https://github.com/Dbray97/SIEMLab)
+  -  [Vulnerability Management Lab (OpenVas)](https://github.com/Dbray97/SIEMLab)
    
       
 <h2>👨‍💻Sotware Development Projects</h2>
