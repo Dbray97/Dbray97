@@ -9,7 +9,7 @@
       
 <h2>👨‍💻Sotware Development Projects</h2>
 
-- [Weather-Alert ](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Weather-Alert ](https://github.com/Dbray97/Weather-Alert)
 
 
 <h2> 🤳 Connect with me:</h2>
